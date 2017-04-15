@@ -36,16 +36,18 @@ Please familiarize yourself with the following before getting started
 | Thursday<br>03/30/16  | review         |                                                    | [Day4][0.04]   | Erich   | Brent  | -             |
 | Friday<br>03/31/16    | *no class*     |                                                    |                | -       | -      | -             |
 
+* [My Repo](https://github.com/kykiefer/python-workshop)
+
 --
 
 ### Week 1: Programming
 | Day                  | Main Topics        | Readings                                                                   | Repo                                     | Lead  | Deck  | Slides         | My Repo | Daily Slides |
 |:---------------------|:-------------------|:---------------------------------------------------------------------------|:----------------------------------------:|:------|:-----:|:--------------:|:-----:|:-----:|
 | Monday<br>04/03/16   | assessment,python |[Workflow][1]                                       |[Assessment][2.1]<br>[Python Intro][3]| Erich | Brent | [slides][3.1]            | [python_intro](null) | [Intro to Python](https://github.com/kykiefer/DSI_notes/blob/master/daily_slides/w1/intro-to-python-slides.pdf) |
-| Tuesday<br>04/04/16  | OOP               |[Learn Python (ex 40-42)][3.2] (Extra 43)           |[OOP][8]                              | Erich | Steve| [slides][3.3]            | [OOP](https://github.com/kykiefer/OOP) |
-| Wednesday<br>04/05/16| SQL               |[SQLZOO (tutorial: 1-9)][10] <br> [Joins][12]       |[SQL][13]                             | Frank | Brent | [slides][13.1]           | [SQL](https://github.com/kykiefer/sql) |
-| Thursday<br>04/06/16 | Jupyter,pandas    |[Pandas [1][19],[2][21]<br>[Extra1][20],[Extra2][22]|[sql-python][25.1]<br>[pandas][23]    | Erich | Steve | [slides][23.1],[2][23.2] | [sql-python](https://github.com/kykiefer/sql-python)<br><br>[pandas](null) |
-| Friday<br>04/07/16   | plotting          |*no readings*                                       |[pandas-seaborn][24.1]                | Adam  | Brent | [slides][24.2]           | [pandas-seaborn](https://github.com/kykiefer/pandas-seaborn) |
+| Tuesday<br>04/04/16  | OOP               |[Learn Python (ex 40-42)][3.2] (Extra 43)           |[OOP][8]                              | Erich | Steve| [slides][3.3]            | [OOP](https://github.com/kykiefer/OOP) | [OOP](https://github.com/kykiefer/DSI_notes/blob/master/daily_slides/w1/oop-slides.pdf) |
+| Wednesday<br>04/05/16| SQL               |[SQLZOO (tutorial: 1-9)][10] <br> [Joins][12]       |[SQL][13]                             | Frank | Brent | [slides][13.1]           | [SQL](https://github.com/kykiefer/sql) | [SQL](https://github.com/kykiefer/DSI_notes/blob/master/daily_slides/w1/sql-afternoon.pdf) |
+| Thursday<br>04/06/16 | Jupyter,pandas    |[Pandas [1][19],[2][21]<br>[Extra1][20],[Extra2][22]|[sql-python][25.1]<br>[pandas][23]    | Erich | Steve | [slides][23.1],[2][23.2] | [sql-python](https://github.com/kykiefer/sql-python)<br><br>[pandas](null) | [SQL-python](https://github.com/kykiefer/DSI_notes/blob/master/daily_slides/w1/sql-python-slides.pdf) |
+| Friday<br>04/07/16   | plotting          |*no readings*                                       |[pandas-seaborn][24.1]                | Adam  | Brent | [slides][24.2]           | [pandas-seaborn](https://github.com/kykiefer/pandas-seaborn) | [plotting](https://github.com/kykiefer/DSI_notes/blob/master/daily_slides/w1/basic-plotting.pdf) |
 
 --
 
