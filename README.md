@@ -39,24 +39,24 @@ Please familiarize yourself with the following before getting started
 --
 
 ### Week 1: Programming
-| Day                  | Main Topics       | Readings                                           | Repo                                 | Lead  | Deck  | Slides                   |
-|:---------------------|:------------------|:---------------------------------------------------|:------------------------------------:|:------|:-----:|:------------------------:|
-| Monday<br>04/03/16   | assessment,python |[Workflow][1]                                       |[Assessment][2.1]<br>[Python Intro][3]| Erich | Brent | [slides][3.1]            |
-| Tuesday<br>04/04/16  | OOP               |[Learn Python (ex 40-42)][3.2] (Extra 43)           |[OOP][8]                              | Erich | Steve | [slides][3.3]            |
-| Wednesday<br>04/05/16| SQL               |[SQLZOO (tutorial: 1-9)][10] <br> [Joins][12]       |[SQL][13]                             | Frank | Brent | [slides][13.1]           |
-| Thursday<br>04/06/16 | Jupyter,pandas    |[Pandas [1][19],[2][21]<br>[Extra1][20],[Extra2][22]|[sql-python][25.1]<br>[pandas][23]    | Erich | Steve | [slides][23.1],[2][23.2] |
-| Friday<br>04/07/16   | plotting          |*no readings*                                       |[pandas-seaborn][24.1]                | Adam  | Brent | [slides][24.2]           |
+| Day                  | Main Topics       | Readings                                           | Repo                                 | Lead  | Deck  | Slides                   | My Repo | Daily Slides |
+|:---------------------|:------------------|:---------------------------------------------------|:------------------------------------:|:------|:-----:|:------------------------:|:-----:|
+| Monday<br>04/03/16   | assessment,python |[Workflow][1]                                       |[Assessment][2.1]<br>[Python Intro][3]| Erich | Brent | [slides][3.1]            | [python_intro](null) | [Intro to Python](https://github.com/kykiefer/DSI_notes/tree/master/g39_lecture_slides/Week1/Mon/intro-to-python-slides.pdf) |
+| Tuesday<br>04/04/16  | OOP               |[Learn Python (ex 40-42)][3.2] (Extra 43)           |[OOP][8]                              | Erich | Steve | [OOP](https://github.com/kykiefer/OOP) | [slides][3.3]            |
+| Wednesday<br>04/05/16| SQL               |[SQLZOO (tutorial: 1-9)][10] <br> [Joins][12]       |[SQL][13]                             | Frank | Brent | [slides][13.1]           | [SQL](https://github.com/kykiefer/sql) |
+| Thursday<br>04/06/16 | Jupyter,pandas    |[Pandas [1][19],[2][21]<br>[Extra1][20],[Extra2][22]|[sql-python][25.1]<br>[pandas][23]    | Erich | Steve | [slides][23.1],[2][23.2] | [sql-python](https://github.com/kykiefer/sql-python)<br><br>[pandas](null) |
+| Friday<br>04/07/16   | plotting          |*no readings*                                       |[pandas-seaborn][24.1]                | Adam  | Brent | [slides][24.2]           | [pandas-seaborn](https://github.com/kykiefer/pandas-seaborn) |
 
 --
 
 ### Week 2: Probability and Statistics
-| Day                  | Main Topics        | Readings                                                                   | Repo                                     | Lead  | Deck  | Slides         |
-|:---------------------|:-------------------|:---------------------------------------------------------------------------|:----------------------------------------:|:------|:-----:|:--------------:|
-| Monday<br>04/10/16   | probability        | [Probability (1.2-4.3),1 hour][25]<br>[Simple stats with SciPy][25.01]     | [Assessment 2][28.0]<br>[Probability][28]| Frank | Steve | [slides][28.1] |
-| Tuesday<br>04/11/16  | sampling,estimation| [Bootstrap][38.1]<br>[CLT][40.1]<br>CIs [1][38.0],[2][38.01]<br>[MLE][38.2]| [Sampling and Estimation][38]            | Brent | Adam  | [slides][38.3] |
-| Wednesday<br>04/12/16| hypothesis testing | [z-test VS t-test][39.1]<br>[Hypothesis Testing][39.2]                     | [Hypothesis Testing][39]                 | Frank | Steve | [slides][39.3] |
-| Thursday<br>04/13/16 | power, Bayes       | [Power Analysis][39.4]<br>[Bayesian stats 1][40.0]                         | [Power Calculation and Bayes][40]        | Adam  | Brent | [slides][40.2] |
-| Friday<br>04/14/16   | multi-armed bandit | *no reading*                                                               | [Multi-armed bandit][44]                 | Adam  | Steve | [slides][40.5] |
+| Day                  | Main Topics        | Readings                                                                   | Repo                                     | Lead  | Deck  | Slides         | My Repo | Daily Slides |
+|:---------------------|:-------------------|:---------------------------------------------------------------------------|:----------------------------------------:|:------|:-----:|:--------------:|:-----:|:-----:|
+| Monday<br>04/10/16   | probability        | [Probability (1.2-4.3),1 hour][25]<br>[Simple stats with SciPy][25.01]     | [Assessment 2][28.0]<br>[Probability][28]| Frank | Steve | [slides][28.1] | [Probability](null) |
+| Tuesday<br>04/11/16  | sampling,estimation| [Bootstrap][38.1]<br>[CLT][40.1]<br>CIs [1][38.0],[2][38.01]<br>[MLE][38.2]| [Sampling and Estimation][38]            | Brent | Adam  | [slides][38.3] | [Sampling and Estimation](https://github.com/kykiefer/estimation-sampling) |
+| Wednesday<br>04/12/16| hypothesis testing | [z-test VS t-test][39.1]<br>[Hypothesis Testing][39.2]                     | [Hypothesis Testing][39]                 | Frank | Steve | [slides][39.3] | [Hypothesis Testing](https://github.com/kykiefer/ab-testing) |
+| Thursday<br>04/13/16 | power, Bayes       | [Power Analysis][39.4]<br>[Bayesian stats 1][40.0]                         | [Power Calculation and Bayes][40]        | Adam  | Brent | [slides][40.2] | [Power Calculation and Bayes](https://github.com/kykiefer/power-bayesian) |
+| Friday<br>04/14/16   | multi-armed bandit | *no reading*                                                               | [Multi-armed bandit][44]                 | Adam  | Steve | [slides][40.5] | [Multi-arm Bandit](https://github.com/kykiefer/multi-armed-bandit) |
 
 --
 
