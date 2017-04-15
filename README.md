@@ -50,8 +50,8 @@ Please familiarize yourself with the following before getting started
 --
 
 ### Week 2: Probability and Statistics
-| Day                  | Main Topics        | Readings                                                                   | Repo                                     | Lead  | Deck  | Slides         | My Repo | Daily Slides |
-|:---------------------|:-------------------|:---------------------------------------------------------------------------|:----------------------------------------:|:------|:-----:|:--------------:|:-----:|:-----:|
+| Day                  | Main Topics       | Readings                                           | Repo                                 | Lead  | Deck  | Slides                   | My Repo | Daily Slides |
+|:---------------------|:------------------|:---------------------------------------------------|:------------------------------------:|:------|:-----:|:------------------------:|:-----:|
 | Monday<br>04/10/16   | probability        | [Probability (1.2-4.3),1 hour][25]<br>[Simple stats with SciPy][25.01]     | [Assessment 2][28.0]<br>[Probability][28]| Frank | Steve | [slides][28.1] | [Probability](null) |
 | Tuesday<br>04/11/16  | sampling,estimation| [Bootstrap][38.1]<br>[CLT][40.1]<br>CIs [1][38.0],[2][38.01]<br>[MLE][38.2]| [Sampling and Estimation][38]            | Brent | Adam  | [slides][38.3] | [Sampling and Estimation](https://github.com/kykiefer/estimation-sampling) |
 | Wednesday<br>04/12/16| hypothesis testing | [z-test VS t-test][39.1]<br>[Hypothesis Testing][39.2]                     | [Hypothesis Testing][39]                 | Frank | Steve | [slides][39.3] | [Hypothesis Testing](https://github.com/kykiefer/ab-testing) |
