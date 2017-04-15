@@ -101,8 +101,8 @@ Please familiarize yourself with the following before getting started
 | Monday<br>05/01/17   |boosting,assessment | [MMD ch 2][mmd2] (pg 21-41)                                        | [Boosting][boosting]<br>[Assessment 4][A4]          | Frank  | Brent | [1][71.3]      | [Boosting](https://github.com/kykiefer/boosting) |
 | Tuesday<br>05/02/17  |web-scraping,MongoDB| [Precourse - Web][75][Web Scaping][76][MongoDB][76.1]              | [Web Scraping][77]                                  | Steve  | Adam  | [1][77.1]      | [Web Scraping](https://github.com/kykiefer/web_scraping) |
 | Wednesday<br>05/03/17|Neural Nets         | [Oxford Deep Lrn course][71.7]<br>[Galaxy classification][71.8]    | [Neural-networks][nn]                               | Frank  | Brent | [1][71.6]      | [Neural Networks](https://github.com/kykiefer/mlp_cnn_rnn) |
-| Thursday<br>05/04/17 |Naive Bayes, NLP    | [Text feature extraction (tf-idf)][tfidf1], [NLP][NLP](pg 107-108) | [NLP][84]                                           | Adam   | Frank | [1][84.1]      | [NLP](https://github.com/kykiefer/nlp |
-| Friday<br>05/05/17   | clustering         | [ISLR (pg 385-400)][47.1]                                          | [KMeans and Hierarchical Clustering][104]           | Frank  | Steve | [1][104.1]     | [ 385-400)][47.1]                                          | [KMeans and Hierarchical Clustering](https://github.com/kykiefer/clustering) |
+| Thursday<br>05/04/17 |Naive Bayes, NLP    | [Text feature extraction (tf-idf)][tfidf1], [NLP][NLP](pg 107-108) | [NLP][84]                                           | Adam   | Frank | [1][84.1]      | [NLP](https://github.com/kykiefer/nlp) |
+| Friday<br>05/05/17   | clustering         | [ISLR (pg 385-400)][47.1]                                          | [KMeans and Hierarchical Clustering][104]           | Frank  | Steve | [1][104.1]     | [Clustering](https://github.com/kykiefer/clustering) |
 
 #### Optional reading
 
@@ -114,11 +114,11 @@ Please familiarize yourself with the following before getting started
 ### Week 6: Unsupervised Learning
 | Day                  | Main Topics        | Readings                                                                   | Repo                                     | Lead  | Deck  | Slides         | My Repo | Daily Slides |
 |:---------------------|:-------------------|:---------------------------------------------------------------------------|:----------------------------------------:|:------|:-----:|:--------------:|:-----:|:-----:|
-| Monday<br>05/08/17   | dimension reduction    |[ML in Action][MLIA] (ch 13-14.3 pg 269-286)<br>[ISLR (pg 374-385)][47.1] |[Dimensionality Reduction][107]          | Steve | Adam  |[1][107.1]           |
-| Tuesday<br>05/09/17  | NMF                    |[NMF in Python][nmf-reading]                                              |[Assessment 5][A5]<br><br>[NMF][nmf]     | Adam  | Brent |[1][103.1]           |
-| Wednesday<br>05/10/17| Graph theory           |[Social Network Analysis][sna] (pg 19-38),  [MMD][mmd10](pg 343-356)      |[Graph Theory][graphs]                   | Adam  | Brent |[1][122]             |
-| Thursday<br>05/11/17 | profit curves, map-red |[DSFB][DSBus] (pg 194-203, 212-214) <br> [ISLR (8.2.3, pg 321-324)][47.1] |[Profit Curves][profit]<br>[MR][129]     | Frank | Adam  |[1][122.3], [2][71.4]|
-| Friday<br>05/12/17   | **case study**         | **no reading**                                                           | [Churn Case Study][200]                 | TBD   | -     | -                   |
+| Monday<br>05/08/17   | dimension reduction    |[ML in Action][MLIA] (ch 13-14.3 pg 269-286)<br>[ISLR (pg 374-385)][47.1] |[Dimensionality Reduction][107]          | Steve | Adam  |[1][107.1]           | [Dimensionality Reduction](https://github.com/kykiefer/dimensionality-reduction) |
+| Tuesday<br>05/09/17  | NMF                    |[NMF in Python][nmf-reading]                                              |[Assessment 5][A5]<br><br>[NMF][nmf]     | Adam  | Brent |[1][103.1]           | [NMF](https://github.com/kykiefer/topicmodeling) |
+| Wednesday<br>05/10/17| Graph theory           |[Social Network Analysis][sna] (pg 19-38),  [MMD][mmd10](pg 343-356)      |[Graph Theory][graphs]                   | Adam  | Brent |[1][122]             | [Graph Theory](https://github.com/kykiefer/graphs) |
+| Thursday<br>05/11/17 | profit curves, map-red |[DSFB][DSBus] (pg 194-203, 212-214) <br> [ISLR (8.2.3, pg 321-324)][47.1] |[Profit Curves][profit]<br>[MR][129]     | Frank | Adam  |[1][122.3], [2][71.4]| [Profit Curve](https://github.com/kykiefer/profit-curve)<br>[MR](https://github.com/kykiefer/data-at-scale) |
+| Friday<br>05/12/17   | **case study**         | **no reading**                                                           | [Churn Case Study][200]                 | TBD   | -     | -                   | [Churn Case Study](https://github.com/kykiefer/ml-case-study) |
 
 #### Optional reading
 
@@ -147,11 +147,11 @@ Please familiarize yourself with the following before getting started
 ### Week 7: Big Data / Data Engineering
 | Day                  | Main Topics        | Readings                                                                   | Repo                                     | Lead  | Deck  | Slides         | My Repo | Daily Slides |
 |:---------------------|:-------------------|:---------------------------------------------------------------------------|:----------------------------------------:|:------|:-----:|:--------------:|:-----:|:-----:|
-| Monday<br>05/22/17   | AWS, speedy computing |[Multiprocessing][multiproc-python]<br>[Parallel][parallel-intro]     | [AWS and Parallelization][hp-python]   | DSRs     | DSRs  | [slides][122.2]|
-| Tuesday<br>05/23/17  | Spark (proposals due) |[Learning Spark][LearningSpark] (ch 1-2, pg 1-22)                     | [Spark][spark]                         | Brent    | Steve | [slides][122.4]|
-| Wednesday<br>05/24/17| Spark on AWS          |[Spark on AWS][131.8]<br>[Learning Spark][LearningSpark] (pg 135-139) | [SparkSQL and Spark on AWS][spark-aws] | Frank    | Brent | [slides][122.5]|
-| Thursday<br>05/25/17 | Recommendors          |[ML in Action][MLIA] (pg 286-295)  (especially 9.1, 9.3, 9.5)         | [Recommendation Systems][118]          | Adam     | Frank | [slides][103.4]|
-| Friday<br>05/26/17   | *case study*          |[MFTFRS][mftr]                                                        | [Recommender Case Study][rec2]         | Adam     | -     | [slides][103.5]|
+| Monday<br>05/22/17   | AWS, speedy computing |[Multiprocessing][multiproc-python]<br>[Parallel][parallel-intro]     | [AWS and Parallelization][hp-python]   | DSRs     | DSRs  | [slides][122.2]| [AWS and Parallelization](https://github.com/kykiefer/high_performance_python) |
+| Tuesday<br>05/23/17  | Spark (proposals due) |[Learning Spark][LearningSpark] (ch 1-2, pg 1-22)                     | [Spark][spark]                         | Brent    | Steve | [slides][122.4]| [Spark](https://github.com/kykiefer/spark) |
+| Wednesday<br>05/24/17| Spark on AWS          |[Spark on AWS][131.8]<br>[Learning Spark][LearningSpark] (pg 135-139) | [SparkSQL and Spark on AWS][spark-aws] | Frank    | Brent | [slides][122.5]| [SparkSQL and Spark on AWS](https://github.com/kykiefer/spark-aws) |
+| Thursday<br>05/25/17 | Recommendors          |[ML in Action][MLIA] (pg 286-295)  (especially 9.1, 9.3, 9.5)         | [Recommendation Systems][118]          | Adam     | Frank | [slides][103.4]| [Recommendation](https://github.com/kykiefer/recommendation-systems) |
+| Friday<br>05/26/17   | *case study*          |[MFTFRS][mftr]                                                        | [Recommender Case Study][rec2]         | Adam     | -     | [slides][103.5]| [Recommender Case Study](https://github.com/kykiefer/recommender-case-study) |
 
 #### Optional reading
 
@@ -165,10 +165,10 @@ Please familiarize yourself with the following before getting started
 | Day                  | Main Topics        | Readings                                                                   | Repo                                     | Lead  | Deck  | Slides         | My Repo | Daily Slides |
 |:---------------------|:-------------------|:---------------------------------------------------------------------------|:----------------------------------------:|:------|:-----:|:--------------:|:-----:|:-----:|
 | Monday<br>05/29/17   | *off*                 |*no class*                                                                       | -                                 | -         | -         | -        |
-| Tuesday<br>05/30/17  | Flask, data products  | [Setup Flask][132.1] (5min)<br>[Flask Tutorials][132.2]<br>[Get vs Post][150.3] | [Data Products][132.0]            | Frank     | Frank | [slides][150.4]|
-| Wednesday<br>05/31/17| *case study*          | *Final project proposals due at 9:30am*                                         | [Fraud Detection Case Study][135] | Steve     | -         |                |
+| Tuesday<br>05/30/17  | Flask, data products  | [Setup Flask][132.1] (5min)<br>[Flask Tutorials][132.2]<br>[Get vs Post][150.3] | [Data Products][132.0]            | Frank     | Frank | [slides][150.4]| [Data Products](https://github.com/kykiefer/data-products) |
+| Wednesday<br>05/31/17| *case study*          | *Final project proposals due at 9:30am*                                         | [Fraud Detection Case Study][135] | Steve     | -         |                | [Fraud Detection Case Study](https://github.com/kykiefer/case-study) |
 | Thursday<br>06/01/17 | *case study*          | Fraud Detection Case Study (continued)                                          | [Fraud Detection Case Study][135] | Brent     |          |                |
-| Friday<br>06/02/17   | final assessment      | CAREER SERVICES, Agile/Scrum lecture                                            | [Final Assessment][131.1]         | Adam      | -         |                |
+| Friday<br>06/02/17   | final assessment      | CAREER SERVICES, Agile/Scrum lecture                                            | [Final Assessment][131.1]         | Adam      | -         |                | [Final Assessment](https://github.com/kykiefer/final-assessment) |
 
 
 Notes
