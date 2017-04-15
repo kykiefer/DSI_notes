@@ -63,8 +63,8 @@ Please familiarize yourself with the following before getting started
 --
 
 ### Week 3: Linear Models
-| Day                  | Main Topics        | Readings                                                                | Repo                                            | Lead       | Deck   | Slides        |
-|:---------------------|:-------------------|:------------------------------------------------------------------------|:-----------------------------------------------:|:-----------|:------:|:-------------:|
+| Day                  | Main Topics        | Readings                                                                   | Repo                                     | Lead  | Deck  | Slides         | My Repo | Daily Slides |
+|:---------------------|:-------------------|:---------------------------------------------------------------------------|:----------------------------------------:|:------|:-----:|:--------------:|:-----:|:-----:|
 | Monday<br>04/17/17   | NumPy, Linear Reg. |[Linear Algebra][45]<br>[SL (3-3.2, pg 59-82)][47.1]<br>[Optional][45.1] |[Linear Algebra, EDA, Lin. Reg.][48]             | Frank      | Brent  |[slides][45.2] |
 | Tuesday<br>04/18/17  | More Linear Reg.   |[ISLR (3.3-3.4, pg 82-104)][47.1]                                        |[Linear Regression 2][58]                        | Adam       | Steve  |[slides][45.3] |
 | Wednesday<br>04/19/17| Regularization, CV |[ISLR (5-5.1.4, pg 175-184)][47.1]<br>[SL (6.2, pg 214-228)][47.1]       |[Cross Validation & Regularization][54]          | Frank      | Brent  |[slides][54.1] |
@@ -77,8 +77,8 @@ Please familiarize yourself with the following before getting started
 --
 
 ### Week 4: Supervised Learning
-| Day                   | Main Topics           | Readings                                                         | Repo                                         | Lead  | Deck  | Slides         |
-|:----------------------|:----------------------|:-----------------------------------------------------------------|:--------------------------------------------:|:------|:-----:|:--------------:|
+| Day                  | Main Topics        | Readings                                                                   | Repo                                     | Lead  | Deck  | Slides         | My Repo | Daily Slides |
+|:---------------------|:-------------------|:---------------------------------------------------------------------------|:----------------------------------------:|:------|:-----:|:--------------:|:-----:|:-----:|
 | Monday<br>02/20/17    | Gradient Decent       |[ML in Action (ch 5, pg 83-90)][MLIA]<br>(optional 90-96)         |[Gradient Descent][52]                        | Adam  | Frank | [slides][54.3] |
 | Tuesday<br>04/25/17   | Decision Trees, KNN   |[ML in Action (pg 18-24,pg 37-48)][MLIA]<br>[Recursion][recursion]|[Decision Trees and KNNs][65]                 | Frank | Steve | [slides][65.1] |
 | Wednesday<br>04/26/17 |Bagging, Random Forests|[ISLR (8.1.2-8.2.2, pg 311-321)][47.1]                            |[Bagging & Random Forests][68]                | Brent | Frank | [slides][68.1] |
@@ -96,8 +96,8 @@ Please familiarize yourself with the following before getting started
 --
 
 ### Week 5: Special Topics
-| Day                  | Main Topics        | Readings                                                           | Repo                                                | Lead   | Deck  | Slides         |
-|:---------------------|:-------------------|:-------------------------------------------------------------------|:---------------------------------------------------:|:-------|:-----:|:--------------:|
+| Day                  | Main Topics        | Readings                                                                   | Repo                                     | Lead  | Deck  | Slides         | My Repo | Daily Slides |
+|:---------------------|:-------------------|:---------------------------------------------------------------------------|:----------------------------------------:|:------|:-----:|:--------------:|:-----:|:-----:|
 | Monday<br>05/01/17   |boosting,assessment | [MMD ch 2][mmd2] (pg 21-41)                                        | [Boosting][boosting]<br>[Assessment 4][A4]          | Frank  | Brent | [1][71.3]      |
 | Tuesday<br>05/02/17  |web-scraping,MongoDB| [Precourse - Web][75][Web Scaping][76][MongoDB][76.1]              | [Web Scraping][77]                                  | Steve  | Adam  | [1][77.1]      |
 | Wednesday<br>05/03/17|Neural Nets         | [Oxford Deep Lrn course][71.7]<br>[Galaxy classification][71.8]    | [Neural-networks][nn]                               | Frank  | Brent | [1][71.6]      |
@@ -112,8 +112,8 @@ Please familiarize yourself with the following before getting started
 --
 
 ### Week 6: Unsupervised Learning
-| Day                  | Main Topics            | Readings                                                                 | Repo                                    | Lead  | Deck  | Slides              |
-|:---------------------|:-----------------------|:-------------------------------------------------------------------------|:---------------------------------------:|:------|:-----:|:-------------------:|
+| Day                  | Main Topics        | Readings                                                                   | Repo                                     | Lead  | Deck  | Slides         | My Repo | Daily Slides |
+|:---------------------|:-------------------|:---------------------------------------------------------------------------|:----------------------------------------:|:------|:-----:|:--------------:|:-----:|:-----:|
 | Monday<br>05/08/17   | dimension reduction    |[ML in Action][MLIA] (ch 13-14.3 pg 269-286)<br>[ISLR (pg 374-385)][47.1] |[Dimensionality Reduction][107]          | Steve | Adam  |[1][107.1]           |
 | Tuesday<br>05/09/17  | NMF                    |[NMF in Python][nmf-reading]                                              |[Assessment 5][A5]<br><br>[NMF][nmf]     | Adam  | Brent |[1][103.1]           |
 | Wednesday<br>05/10/17| Graph theory           |[Social Network Analysis][sna] (pg 19-38),  [MMD][mmd10](pg 343-356)      |[Graph Theory][graphs]                   | Adam  | Brent |[1][122]             |
@@ -145,8 +145,8 @@ Please familiarize yourself with the following before getting started
    * [slides][103.6]
 
 ### Week 7: Big Data / Data Engineering
-| Day                  | Main Topics           | Readings                                                             | Repo                                   | Lead     | Deck      | Slides     |
-|:---------------------|:----------------------|:---------------------------------------------------------------------|:--------------------------------------:|:---------|:-----:|:--------------:|
+| Day                  | Main Topics        | Readings                                                                   | Repo                                     | Lead  | Deck  | Slides         | My Repo | Daily Slides |
+|:---------------------|:-------------------|:---------------------------------------------------------------------------|:----------------------------------------:|:------|:-----:|:--------------:|:-----:|:-----:|
 | Monday<br>05/22/17   | AWS, speedy computing |[Multiprocessing][multiproc-python]<br>[Parallel][parallel-intro]     | [AWS and Parallelization][hp-python]   | DSRs     | DSRs  | [slides][122.2]|
 | Tuesday<br>05/23/17  | Spark (proposals due) |[Learning Spark][LearningSpark] (ch 1-2, pg 1-22)                     | [Spark][spark]                         | Brent    | Steve | [slides][122.4]|
 | Wednesday<br>05/24/17| Spark on AWS          |[Spark on AWS][131.8]<br>[Learning Spark][LearningSpark] (pg 135-139) | [SparkSQL and Spark on AWS][spark-aws] | Frank    | Brent | [slides][122.5]|
@@ -162,8 +162,8 @@ Please familiarize yourself with the following before getting started
 --
 
 ### Week 8: Special Topics / Case Studies
-| Day                  | Main Topics           | Readings                                                                        | Repo                              | Lead      | Deck | Slides         |
-|:---------------------|:----------------------|:--------------------------------------------------------------------------------|:---------------------------------:|:----------|:---------:|:--------------:|
+| Day                  | Main Topics        | Readings                                                                   | Repo                                     | Lead  | Deck  | Slides         | My Repo | Daily Slides |
+|:---------------------|:-------------------|:---------------------------------------------------------------------------|:----------------------------------------:|:------|:-----:|:--------------:|:-----:|:-----:|
 | Monday<br>05/29/17   | *off*                 |*no class*                                                                       | -                                 | -         | -         | -        |
 | Tuesday<br>05/30/17  | Flask, data products  | [Setup Flask][132.1] (5min)<br>[Flask Tutorials][132.2]<br>[Get vs Post][150.3] | [Data Products][132.0]            | Frank     | Frank | [slides][150.4]|
 | Wednesday<br>05/31/17| *case study*          | *Final project proposals due at 9:30am*                                         | [Fraud Detection Case Study][135] | Steve     | -         |                |
