@@ -79,11 +79,11 @@ Please familiarize yourself with the following before getting started
 ### Week 4: Supervised Learning
 | Day                  | Main Topics        | Readings                                                                   | Repo                                     | Lead  | Deck  | Slides         | My Repo | Daily Slides |
 |:---------------------|:-------------------|:---------------------------------------------------------------------------|:----------------------------------------:|:------|:-----:|:--------------:|:-----:|:-----:|
-| Monday<br>02/20/17    | Gradient Decent       |[ML in Action (ch 5, pg 83-90)][MLIA]<br>(optional 90-96)         |[Gradient Descent][52]                        | Adam  | Frank | [slides][54.3] |
-| Tuesday<br>04/25/17   | Decision Trees, KNN   |[ML in Action (pg 18-24,pg 37-48)][MLIA]<br>[Recursion][recursion]|[Decision Trees and KNNs][65]                 | Frank | Steve | [slides][65.1] |
-| Wednesday<br>04/26/17 |Bagging, Random Forests|[ISLR (8.1.2-8.2.2, pg 311-321)][47.1]                            |[Bagging & Random Forests][68]                | Brent | Frank | [slides][68.1] |
-| Thursday<br>04/27/17  | Kernels, SVMs         |[ISLR (9-9.2, pg 337-349)][47.1]                                  |[SVMs and Kernels][71]                        | Adam  | Brent | [slides][71.2] |
-| Friday<br>04/28/17    | *case study*          | -                                                                |[Regression Case Study][71.5]                 | TBD   | -     | -              |
+| Monday<br>02/20/17    | Gradient Decent       |[ML in Action (ch 5, pg 83-90)][MLIA]<br>(optional 90-96)         |[Gradient Descent][52]                        | Adam  | Frank | [slides][54.3] | [Gradient Descent](https://github.com/kykiefer/gradient-descent) |
+| Tuesday<br>04/25/17   | Decision Trees, KNN   |[ML in Action (pg 18-24,pg 37-48)][MLIA]<br>[Recursion][recursion]|[Decision Trees and KNNs][65]                 | Frank | Steve | [slides][65.1] | [Decision Trees and KNNs](https://github.com/kykiefer/non-parametric-learners) |
+| Wednesday<br>04/26/17 |Bagging, Random Forests|[ISLR (8.1.2-8.2.2, pg 311-321)][47.1]                            |[Bagging & Random Forests][68]                | Brent | Frank | [slides][68.1] |[Bagging and Ranomd Forsets](https://github.com/kykiefer/random-forest) |
+| Thursday<br>04/27/17  | Kernels, SVMs         |[ISLR (9-9.2, pg 337-349)][47.1]                                  |[SVMs and Kernels][71]                        | Adam  | Brent | [slides][71.2] |[SVMs and Kernels](https://github.com/kykiefer/svm) |
+| Friday<br>04/28/17    | *case study*          | -                                                                |[Regression Case Study][71.5]                 | TBD   | -     | -              | [Regression Case Study](https://github.com/kykiefer/regression-case-study) |
 
 #### Optional reading
 
@@ -98,11 +98,11 @@ Please familiarize yourself with the following before getting started
 ### Week 5: Special Topics
 | Day                  | Main Topics        | Readings                                                                   | Repo                                     | Lead  | Deck  | Slides         | My Repo | Daily Slides |
 |:---------------------|:-------------------|:---------------------------------------------------------------------------|:----------------------------------------:|:------|:-----:|:--------------:|:-----:|:-----:|
-| Monday<br>05/01/17   |boosting,assessment | [MMD ch 2][mmd2] (pg 21-41)                                        | [Boosting][boosting]<br>[Assessment 4][A4]          | Frank  | Brent | [1][71.3]      |
-| Tuesday<br>05/02/17  |web-scraping,MongoDB| [Precourse - Web][75][Web Scaping][76][MongoDB][76.1]              | [Web Scraping][77]                                  | Steve  | Adam  | [1][77.1]      |
-| Wednesday<br>05/03/17|Neural Nets         | [Oxford Deep Lrn course][71.7]<br>[Galaxy classification][71.8]    | [Neural-networks][nn]                               | Frank  | Brent | [1][71.6]      |
-| Thursday<br>05/04/17 |Naive Bayes, NLP    | [Text feature extraction (tf-idf)][tfidf1], [NLP][NLP](pg 107-108) | [NLP][84]                                           | Adam   | Frank | [1][84.1]      |
-| Friday<br>05/05/17   | clustering         | [ISLR (pg 385-400)][47.1]                                          | [KMeans and Hierarchical Clustering][104]           | Frank  | Steve | [1][104.1]     |
+| Monday<br>05/01/17   |boosting,assessment | [MMD ch 2][mmd2] (pg 21-41)                                        | [Boosting][boosting]<br>[Assessment 4][A4]          | Frank  | Brent | [1][71.3]      | [Boosting](https://github.com/kykiefer/boosting) |
+| Tuesday<br>05/02/17  |web-scraping,MongoDB| [Precourse - Web][75][Web Scaping][76][MongoDB][76.1]              | [Web Scraping][77]                                  | Steve  | Adam  | [1][77.1]      | [Web Scraping](https://github.com/kykiefer/web_scraping) |
+| Wednesday<br>05/03/17|Neural Nets         | [Oxford Deep Lrn course][71.7]<br>[Galaxy classification][71.8]    | [Neural-networks][nn]                               | Frank  | Brent | [1][71.6]      | [Neural Networks](https://github.com/kykiefer/mlp_cnn_rnn) |
+| Thursday<br>05/04/17 |Naive Bayes, NLP    | [Text feature extraction (tf-idf)][tfidf1], [NLP][NLP](pg 107-108) | [NLP][84]                                           | Adam   | Frank | [1][84.1]      | [NLP](https://github.com/kykiefer/nlp |
+| Friday<br>05/05/17   | clustering         | [ISLR (pg 385-400)][47.1]                                          | [KMeans and Hierarchical Clustering][104]           | Frank  | Steve | [1][104.1]     | [ 385-400)][47.1]                                          | [KMeans and Hierarchical Clustering](https://github.com/kykiefer/clustering) |
 
 #### Optional reading
 
