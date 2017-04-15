@@ -65,11 +65,11 @@ Please familiarize yourself with the following before getting started
 ### Week 3: Linear Models
 | Day                  | Main Topics        | Readings                                                                   | Repo                                     | Lead  | Deck  | Slides         | My Repo | Daily Slides |
 |:---------------------|:-------------------|:---------------------------------------------------------------------------|:----------------------------------------:|:------|:-----:|:--------------:|:-----:|:-----:|
-| Monday<br>04/17/17   | NumPy, Linear Reg. |[Linear Algebra][45]<br>[SL (3-3.2, pg 59-82)][47.1]<br>[Optional][45.1] |[Linear Algebra, EDA, Lin. Reg.][48]             | Frank      | Brent  |[slides][45.2] |
-| Tuesday<br>04/18/17  | More Linear Reg.   |[ISLR (3.3-3.4, pg 82-104)][47.1]                                        |[Linear Regression 2][58]                        | Adam       | Steve  |[slides][45.3] |
-| Wednesday<br>04/19/17| Regularization, CV |[ISLR (5-5.1.4, pg 175-184)][47.1]<br>[SL (6.2, pg 214-228)][47.1]       |[Cross Validation & Regularization][54]          | Frank      | Brent  |[slides][54.1] |
-| Thursday<br>04/20/17 | ROC, Logistic Reg. |[ISLR (pg 127-137)][47.1]<br>[ML in action (pg 142-148)][MLIA]           |[Logistic Reg.][log-reg]                         | Adam       | Steve  |[slides][54.2] |
-| Friday<br>04/21/17   | Data Visualization |*no reading*                                                             |[Assessment 3][A3]<br>[Data Visualization][150.1]| Steve      | Adam   |[slides][150.2]|
+| Monday<br>04/17/17   | NumPy, Linear Reg. |[Linear Algebra][45]<br>[SL (3-3.2, pg 59-82)][47.1]<br>[Optional][45.1] |[Linear Algebra, EDA, Lin. Reg.][48]             | Frank      | Brent  |[slides][45.2] | [Linear Algebra](https://github.com/kykiefer/linear-algebra-eda) |
+| Tuesday<br>04/18/17  | More Linear Reg.   |[ISLR (3.3-3.4, pg 82-104)][47.1]                                        |[Linear Regression 2][58]                        | Adam       | Steve  |[slides][45.3] | [Linear Regression](https://github.com/kykiefer/linear-regression) |
+| Wednesday<br>04/19/17| Regularization, CV |[ISLR (5-5.1.4, pg 175-184)][47.1]<br>[SL (6.2, pg 214-228)][47.1]       |[Cross Validation & Regularization][54]          | Frank      | Brent  |[slides][54.1] | [Regularized Regression](https://github.com/kykiefer/regularized-regression) |
+| Thursday<br>04/20/17 | ROC, Logistic Reg. |[ISLR (pg 127-137)][47.1]<br>[ML in action (pg 142-148)][MLIA]           |[Logistic Reg.][log-reg]                         | Adam       | Steve  |[slides][54.2] | [Logistic Regression](https://github.com/kykiefer/logistic-regression) |
+| Friday<br>04/21/17   | Data Visualization |*no reading*                                                             |[Assessment 3][A3]<br>[Data Visualization][150.1]| Steve      | Adam   |[slides][150.2]| [Data Viz](https://github.com/kykiefer/data-viz-for-ds) |
 
 #### Optional reading
    * Linear model selection and Regularization [ISLR (6.2, pg 203-214)][47.1]
